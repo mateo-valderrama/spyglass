@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.env/
+
+# VS Code workspace settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Datasets or large files
+*.csv
+*.tsv
+*.xlsx
+*.zip
+*.h5
+*.tar.gz
+
+# Requirements cache
+pip-wheel-metadata/
+*.egg-info/
